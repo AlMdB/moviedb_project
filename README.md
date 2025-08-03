@@ -4,8 +4,8 @@ Uma aplicação Android moderna para explorar filmes populares usando a API do T
 
 ##
 
-![image](https://github.com/[AlMdB]/[moviedb_project]/imgs/img1.jpg?raw=true)
-![alt text](https://github.com/[AlMdB]/[moviedb_project]/imgs/img2.jpg?raw=true)
+![image](https://github.com/AlMdB/moviedb_project/imgs/img1.jpg?raw=true)
+![image](https://github.com/AlMdB/moviedb_project/imgs/img2.jpg?raw=true)
 
 
 Projeto utilizando **arquitetura MVVM**, buscou-se separar o projeto em camadas para melhor compreensão
