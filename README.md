@@ -23,19 +23,19 @@ Retrofit: Facilita o uso de API Rest em interfaces kotlin
 
 ### Estrutura do Projeto
 
-├── data/
-│   ├── api/           # Interface Retrofit e DTOs
-│   ├── models/        # Modelos de dados
-│   ├── mappers/       # Conversão DTO -> Domain
-│   └── repository/    # Implementação do Repository
-├── di/                # Módulos do Hilt
-├── movieDetails/
-├── ui/
-│   ├── presentation/  # ViewModels e Estados
-│   ├── theme/         # Tema e cores
-├── utils/             # Classes utilitárias
-├── App.kt
-└── MainActivity.kt    # Activity principal
+├── data/                                                                                   
+│   ├── api/           # Interface Retrofit e DTOs                                                                                   
+│   ├── models/        # Modelos de dados                                                                                   
+│   ├── mappers/       # Conversão DTO -> Domain                                                                                   
+│   └── repository/    # Implementação do Repository                                                                                   
+├── di/                # Módulos do Hilt                                                                                   
+├── movieDetails/                                                                                   
+├── ui/                                                                                   
+│   ├── presentation/  # ViewModels e Estados                                                                                   
+│   ├── theme/         # Tema e cores                                                                                   
+├── utils/             # Classes utilitárias                                                                                   
+├── App.kt                                                                                   
+└── MainActivity.kt    # Activity principal                                                                                   
 
 
 
@@ -77,6 +77,7 @@ Retrofit: Facilita o uso de API Rest em interfaces kotlin
     - Mensagens de Log.d para verificar os motivos de falhas de algumas imagens
     - Criar um sistema de Cache/ Banco de Dados locais para permitir o funcitonamento do App offline
     - Imagens demoram pra carregar as vezes
+
 
 
 
