@@ -4,8 +4,8 @@ Uma aplicação Android moderna para explorar filmes populares usando a API do T
 
 ##
 
-![image](https://github.com/AlMdB/moviedb_project/imgs/img1.jpg?raw=true)
-![image](https://github.com/AlMdB/moviedb_project/imgs/img2.jpg?raw=true)
+![image](https://github.com/AlMdB/moviedb_project/blob/main/imgs/img1.png?raw=true)
+![image](https://github.com/AlMdB/moviedb_project/blob/main/imgs/img2.png?raw=true)
 
 
 Projeto utilizando **arquitetura MVVM**, buscou-se separar o projeto em camadas para melhor compreensão
@@ -77,6 +77,7 @@ Retrofit: Facilita o uso de API Rest em interfaces kotlin
     - Mensagens de Log.d para verificar os motivos de falhas de algumas imagens
     - Criar um sistema de Cache/ Banco de Dados locais para permitir o funcitonamento do App offline
     - Imagens demoram pra carregar as vezes
+
 
 
 
